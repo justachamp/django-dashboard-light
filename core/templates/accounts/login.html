@@ -16,9 +16,15 @@
                     <div class="card-header">
                         <h4 class="card-title">Login</h4>
 
-                        {% if msg %}
-                            <p>{{ msg | safe }}</p>
-                        {% endif %}
+                        <p>
+                            {% if msg %}
+                                {{ msg | safe }}
+                            {% else %}
+                                Use default credentials: test / ApS12_ZZs8
+                                <br />
+                                OR <a href={% url 'register' %} >create your own user</a>
+                            {% endif %}
+                        </p>
 
                     </div>
 
