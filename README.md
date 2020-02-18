@@ -21,6 +21,7 @@
 
 - [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - product page
 - [Django Dashboard Light](https://django-dashboard-light.herokuapp.com/) - LIVE Demo
+- [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
 
 <br />
 
@@ -183,7 +184,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ## Credits
 
-- [Django Dashboard Light](https://www.youtube.com/watch?v=vsR9GPxEcNQ) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
 
