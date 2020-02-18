@@ -17,10 +17,10 @@
 - **Gunicorn** / Nginx - a common choice for Django Apps
 - **Waitress** - Gunicorn equivalent for Windows.
 
-### Web App Links
+### Dashboard Links
 
 - [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - product page
-- [Django Dashboard Light](https://django-dashboard-light.herokuapp.com/) - LIVE Demo
+- [Django Dashboard Light](https://django-dashboard-light.appseed.us/login/) - LIVE Demo
 - [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
 
 <br />
