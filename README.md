@@ -1,4 +1,4 @@
-# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
+# [Django Dashboard - Light Dashboard](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
 
@@ -13,11 +13,11 @@
 
 > Links
 
-- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - product page
-- [Django Dashboard Light](https://django-dashboard-light.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Light](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Documentation
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Django Dashboard - Light Dashboard](https://appseed.us/admin-dashboards/django-dashboard-light) - product page
+- [Django Dashboard Light Demo](https://django-dashboard-light.appseed.us/login/) - LIVE App
+- [Django Dashboard Light Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Documentation
+- More [Django Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -160,4 +160,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-[Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard - Light Dashboard](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
